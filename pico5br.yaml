@@ -14,7 +14,7 @@ blueprint:
       selector:
         device:
           model: PJ2-3BRL-XXX-L01 (Pico3ButtonRaiseLower)
-          multiple: true
+          multiple: false
     short_click_action_on:
       name: On Button Short Click
       description: The action(s) to launch for a single short click
